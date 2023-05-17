@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
