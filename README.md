@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
