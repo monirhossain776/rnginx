@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
