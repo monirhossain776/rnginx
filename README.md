@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Explorer with LanceDB, Actions and Docs updates (#7487)
