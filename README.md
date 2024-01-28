@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
