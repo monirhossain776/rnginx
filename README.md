@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Resize angle, count, and stage on keypoint number change (#7598)
