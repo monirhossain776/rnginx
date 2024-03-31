@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
