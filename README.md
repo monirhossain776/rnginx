@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
