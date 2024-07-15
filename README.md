@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add docs guide terminal images (#8819)
