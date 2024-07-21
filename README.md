@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
