@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
